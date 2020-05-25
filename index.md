@@ -6,6 +6,8 @@ sidebar:
   nav: defnav
 ---
 
+{% include chatbox.html %}
+
 We're here to connect you with all the awesome volunteer groups run by your neighbors, key resources like what stores are open or delivering, and ideas for keeping families and kids active and happy!  See the Toggle Menu on the left for everything.
 
 # Resource Finder /  Sitemap
@@ -19,14 +21,13 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 
 ## Arlington Helps
 
-{% include chatbox.html %}
-
 [Arlington Helps](https://www.arlingtonhelps.org) is an allied group of volunteers that provides many support services including [Neighborhood Pods](/pods/). There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) too.
 
 We've got a [full list of Arlington stores/restaurants open and hours](/open/) that are curated by the town and several volunteers.  For those without internet, there are many [discount programs to keep people connected](/telecom/).
 
 ## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
 
+- The town has now partnered with [AFC locally to offer COVID-19 testing to residents in some cases](https://www.yourarlington.com/arlington-archives/town-school/town-news/health/17114-testing-051420).
 - Take the [Amazing Arlington Community Needs Survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform) **NEW 31-March!** What issues are you facing in the age of Coronavirus? How are you volunteering? Let the [town know in this new survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform).
 - Read [important Town updates](https://twitter.com/arlingtonmagov) every afternoon: [https://arlingtonma.gov/covid19](https://arlingtonma.gov/covid19), or [sign up for email alerts & updates](https://www.arlingtonma.gov/communications-center)
 - **Business Owners** we [list resources for businesses](/business/)
@@ -63,7 +64,7 @@ We've got a [full list of Arlington stores/restaurants open and hours](/open/) t
 
 ## Need Your Help <i class="fa fa-exclamation"></i>
 
-I'm [actively looking for collaborators](/tech#volunteer-to-help) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Email me or [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).  I'm also happy to add links to any organized volutneer groups in town, as well as supporting both the Amazing Arlington campaign the town is running, as well as the [Arlington Helps volunteers](https://www.arlingtonhelps.org/)!
+I'm [actively looking for collaborators](/tech#volunteer-to-help) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Email me or [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).  I'm also happy to add links to any organized volunteer groups in town, as well as supporting both the Amazing Arlington campaign the town is running, as well as the [Arlington Helps volunteers](https://www.arlingtonhelps.org/)!
 
 ### Credits
 

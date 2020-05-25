@@ -17,14 +17,21 @@ Are the kids getting bored or crazy stuck at home?  So are the neighbors - and w
 - [Arlington Community Education](http://www.arlingtoncommunityed.org/) has a list of great local things to do. 
 - Check out [Boston Mamas weekly curated events](https://www.bostonmamas.com/blog/virtual-weekly-events) in the region.
 - Join the "Arlington Parents (Arlington, Massachusetts)" Facebook group (private, requires approval which comes within a day or so).
-- Scroll through this giant [Google Spreadsheet of Education companies offering free subscriptions during COVID](http://amazingeducationalresources.com/)
+- Scroll through this giant [Google Spreadsheet of Education companies offering free subscriptions during COVID](https://amazingeducationalresources.com/)
+
 
 ## Library Programs Online
+
+Hundreds of [museum exhibitions are online now](https://artsandculture.google.com/partner) too - while many of the images and video tours may be more for adults, there are sure to be some for kids too!
 
 Need *real* books *now*?  [See local bookstores offering delivery or pickup!](/books/).
 {: .pullrightbox .notice--info }
 
 Please read our [complete guide to online library services](/libraries/), including language learning, e-books three ways, and streaming British TV, critically acclaimed movies, and more.
+
+## State School Gudiance
+
+The state has issued [guidance to school districts](http://www.doe.mass.edu/covid19/learn-at-home.html) for the remainder of the year.  There are [links to various educational resources](http://www.doe.mass.edu/covid19/learn-at-home.html) there as well.
 
 ## Got More Ideas?
 
